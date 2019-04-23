@@ -72,3 +72,5 @@ Self-paced labs provide hands-on experience with Oracle Cloud Infrastructure in 
 |[Deploying Jenkins](./DevOps/Deploying_Jenkins/Deploying_Jenkins_HOL.md) | DevOps |   30 minutes   |  
 |[Resource Manager](./DevOps/Resource_Manager/Resource_Manager_HOL.md)    | DevOps |   20 minutes   |      
 |[OCI Command Line Inferface](./DevOps/OCI_CLI/OCI_CLI_HOL.md)    | DevOps |   30 minutes   |
+
+** testing CODEOWNERS **
